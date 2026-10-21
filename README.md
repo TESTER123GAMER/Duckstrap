@@ -1,0 +1,1 @@
+Duckstrap Is a fanmade fork of froststrap mostly to try to 1 up most of these strapers since i seen they tried charging for multi instance and it was hard to downgrade versions, so here u go Duckstrap 1.1
